@@ -1,0 +1,80 @@
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                                                                                                       description                                                                                                        |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Vandalism took place at 12:04. No known witnesses.                                                                                                                                                                       |
+| Shoplifting took place at 03:01. Two people witnessed the event.                                                                                                                                                         |
+| Theft of the CS50 duck took place at 10:15am at the Humphrey Street bakery. Interviews were conducted today with three witnesses who were present at the time – each of their interview transcripts mentions the bakery. |
+| Money laundering took place at 20:30. No known witnesses.                                                                                                                                                                |
+| Littering took place at 16:36. No known witnesses.                                                                                                                                                                       |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                                                                                                       description                                                                                                        |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Theft of the CS50 duck took place at 10:15am at the Humphrey Street bakery. Interviews were conducted today with three witnesses who were present at the time – each of their interview transcripts mentions the bakery. |
+| Littering took place at 16:36. No known witnesses.                                                                                                                                                                       |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++--------+
+|  name  |
++--------+
+| Samuel |
++--------+
++------------------------+------------------------------+---------------+
+| destination_airport_id |          full_name           |     city      |
++------------------------+------------------------------+---------------+
+| 7                      | O'Hare International Airport | Chicago       |
+| 8                      | LaGuardia Airport            | New York City |
+| 5                      | Logan International Airport  | Boston        |
++------------------------+------------------------------+---------------+
++-------------+---------------+
+|    name     | license_plate |
++-------------+---------------+
+| Heather     | NULL          |
+| Vanessa     | 5P2BI95       |
+| Ernest      | C3S4W87       |
+| Karen       | IH61GO8       |
+| Margaret    | 60563QT       |
+| Kristina    | P743G7C       |
+| Austin      | P160306       |
+| Juan        | 8BB36NX       |
+| Megan       | NULL          |
+| Tyler       | 3H26E71       |
+| Gregory     | V4C670D       |
+| Walter      | 82456Y8       |
+| Christopher | 91UQ3NC       |
+| Noah        | 11J91FW       |
+| Debra       | 47MEFVA       |
+| Brooke      | QX4YZN3       |
+| Billy       | 2HB7G9N       |
+| Barbara     | HN8I106       |
+| Stephanie   | 2001OV9       |
+| Randy       | 106OW2W       |
+| Jeffrey     | EH6V12Q       |
+| Joseph      | NULL          |
+| Jack        | 52R0Y8U       |
+| Jessica     | ET017P4       |
+| Matthew     | 31GVT84       |
+| Janet       | P72XP87       |
+| Carl        | 81MZ921       |
+| Thomas      | WD5M8I6       |
+| Samuel      | 10J5R8P       |
+| John        | 4468KVT       |
+| Linda       | NULL          |
+| Jonathan    | 7627B71       |
+| Dorothy     | 7T807V5       |
+| Jeremy      | V47T75I       |
+| Nathan      | 11WB3I6       |
+| Keith       | 630U2R7       |
+| George      | L68E5I0       |
+| Charles     | R12SA4D       |
+| Frances     | 97O6H62       |
+| Anthony     | 50U175Y       |
+| Mark        | YD7376W       |
+| Timothy     | 3AML2V7       |
+| Andrea      | 245THL6       |
+| Amy         | NULL          |
+| Johnny      | 3JC5R39       |
+| Willie      | NULL          |
+| Logan       | 6866W0M       |
+| Deborah     | 10I5658       |
+| Angela      | SS458D7       |
++-------------+---------------+
