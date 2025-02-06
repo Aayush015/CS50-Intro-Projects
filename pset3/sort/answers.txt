@@ -1,0 +1,13 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Bubble Sort has n^2 for worst case scenario and n for best case. By running the program for three consequestive
+sets, I found that the time the program takes to compile is relatively less for the sorted array than for the reversed or random array.
+
+sort2 uses: Merge Sort
+
+How do you know?: In all of the three program execution, I found that sort2 took the least time to compile sort2 relatively.
+
+sort3 uses: Selection Sort
+
+How do you know?: Both the best case and worst case scenario for selection sort is n^2. In all of the given array, the time it took
+to compile sort3 took relatively same for all reversed, random and sorted array. 
